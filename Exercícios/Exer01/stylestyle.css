@@ -1,0 +1,17 @@
+@charset "UTF8";
+
+body{
+    background-color: rgb(76, 87, 236);
+}
+
+p{
+    text-align: justify;
+    color: white;
+    font-size: 40px;
+}
+
+.boxmodel{
+    width: 500px;
+    height:500px;
+    border: 5px solid #CCC; 
+}
